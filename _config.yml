@@ -1,0 +1,28 @@
+name: hawthorneprojects
+favicon: null
+layout_spectrum: 0.9186542350798845
+typography_spectrum: 0.4657712772022933
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.07542088441550732
+  lightness: 0.07734935195185244
+  saturation: 0.3791359381284565
+  rhythmicContrast: 0.9578335587866604
+purpose: []
